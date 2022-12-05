@@ -1,6 +1,7 @@
 library(readstata13) # load packages
 
-cces <- readRDS("D:\\dataset\\CCES\\cumulative_2006-2021.rds")
+cces <- readRDS("cumulative_2006-2021.rds")
+# cces <- readRDS("D:\\dataset\\CCES\\cumulative_2006-2021.rds")
 
 
 
